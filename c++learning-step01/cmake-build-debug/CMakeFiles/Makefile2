@@ -54,10 +54,10 @@ RM = "/Users/wangwei/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/wangwei/Documents/002-Tech/0014-c/c++learning
+CMAKE_SOURCE_DIR = /Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step01
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/wangwei/Documents/002-Tech/0014-c/c++learning/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step01/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/c__learning.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /Users/wangwei/Documents/002-Tech/0014-c/c++learning/cmake-bu
 CMakeFiles/c__learning.dir/all:
 	$(MAKE) -f CMakeFiles/c__learning.dir/build.make CMakeFiles/c__learning.dir/depend
 	$(MAKE) -f CMakeFiles/c__learning.dir/build.make CMakeFiles/c__learning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/wangwei/Documents/002-Tech/0014-c/c++learning/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target c__learning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step01/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target c__learning"
 .PHONY : CMakeFiles/c__learning.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/c__learning.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/c__learning.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wangwei/Documents/002-Tech/0014-c/c++learning/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step01/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/c__learning.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wangwei/Documents/002-Tech/0014-c/c++learning/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step01/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/c__learning.dir/rule
 
 # Convenience name for target.
