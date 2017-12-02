@@ -4,7 +4,7 @@
 
 # Structure of a program
 
-####Statements
+#### Statements
 
 > Statements in C++ are often terminated by a semicolon.
 
@@ -16,7 +16,7 @@ std::cout << x; // output statement
 
 
 
-####Expressions
+#### Expressions
 
 > An **expression** is a mathematical entity that evaluates to a value.
 
@@ -35,7 +35,7 @@ x = 2 + 3;
 
 
 
-####Libraries and the C++ Standard Library
+#### Libraries and the C++ Standard Library
 
 > A **library** is a collection of precompiled code (e.g. functions) that has been “packaged up” for reuse in many different programs.
 
