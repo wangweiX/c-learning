@@ -6,7 +6,7 @@
 
 ####Statements
 
-> Statements in C++ are often terminated by a semicolon.
+> A statement in C++ is the smallest independent unit in the language. Statements in C++ are often terminated by a semicolon.
 
 ```c++
 int x; // declaration statement
