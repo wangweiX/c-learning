@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/Date.cpp
+
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/Date1.cpp
+
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/Date2.cpp
+Date2.h
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/Date2.h
+
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/Date2.h
+
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/add.cpp
+
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/add.h
+
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/calculator.cpp
+calculator.h
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/calculator.h
+
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/calculator.h
+
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/main.cpp
+iostream
+-
+add.h
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/add.h
+Date2.h
+/Users/wangwei/Documents/002-Tech/0014-c/c-learning/c++learning-step07/Date2.h
+
