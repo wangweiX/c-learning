@@ -1,6 +1,6 @@
 # Step20 - pointer
 
-### pointer
+### Pointer
 A pointer is a variable that holds a memory address as its value.
 
 ### Declaring a pointer
