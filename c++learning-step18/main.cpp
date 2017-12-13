@@ -18,6 +18,12 @@ int main() {
     cout << "The length of array1 is " << sizeof(array1) / sizeof(array1[0]) << endl;
 
     int array2[6] = {18, 76, 65, 42, 12, 41};
+    int array2Sum = 0;
+
+    // calculation array2 element sum
+    for (int j = 0; j < sizeof(array2) / sizeof(array2[0]); ++j) {
+        array2Sum += array2[j];
+    }
 
     cout << "The size of array2 is " << sizeof(array2) << endl;
     cout << "The length of array2 is " << sizeof(array2) / sizeof(array2[0]) << endl;
@@ -25,6 +31,8 @@ int main() {
     cout << "array2 has " << sizeof(array2) / sizeof(array2[0]) << " elements. they are "
          << array2[0] << ", " << array2[1] << ", " << array2[2] << ", "
          << array2[3] << ", " << array2[4] << ", " << array2[5] << endl;
+
+    cout << "array2Sum=" << array2Sum << endl;
 
     return 0;
 }
