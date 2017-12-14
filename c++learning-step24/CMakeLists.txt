@@ -3,4 +3,4 @@ project(c__learning_step24)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(c__learning_step24 main.cpp Sally.cpp Sally.h)
+add_executable(c__learning_step24 main.cpp Sally.cpp Sally.h test.swift)
