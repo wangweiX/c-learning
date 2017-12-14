@@ -27,3 +27,30 @@
 
  - [youtube](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLDED25B8DC0FEF9A1)
  - [cpp-tutorial](http://www.learncpp.com/)
+
+
+## 学习笔记
+
+### 基础
+
+- [Step01 - Initialization project](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step01)
+- [Step02 - Variables, initialization, and assignment](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step02)
+- [Step03 - Creating a Basic Calculator](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step03)
+- [Step04 - If / else Statement](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step04)
+- [Step05 - Function](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step05)
+- [Step06 - Object-oriented programming(OOP)](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step06)
+- [Step07 - Placing Classes in Separate Files](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step07)
+- [Step08 - While、for、do while Loops](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step08)
+- [Step09 - Assignment and Increment Operators](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step09)
+- [Step10 - Making a Stock Market Simulator](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step10)
+- [Step11 - Switch](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step12)
+- [Step12 - Logical Operators](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step12)
+- [Step13 - Random Number Generator](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step13)
+- [Step14 - Default parameters](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step14)
+- [Step15 - Unary Scope Resolution Operator](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step15)
+- [Step16 - Function Overloading](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step16)
+- [Step17 - Recursion](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step17)
+- [Step18 - Array](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step18) 
+- [Step19 - Multidimensional Arrays](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step19)
+- [Step20 - Pointer](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step20)
+
