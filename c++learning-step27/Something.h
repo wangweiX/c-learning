@@ -15,7 +15,7 @@ private:
     int m_value1;
     double m_value2;
     char m_value3;
-    const std::string m_value4;
+    const string m_value4;
 
 public:
     Something();
