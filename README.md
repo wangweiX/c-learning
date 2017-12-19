@@ -53,11 +53,11 @@
 - [Step18 - Array](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step18) 
 - [Step19 - Multidimensional Arrays](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step19)
 - [Step20 - Pointer](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step20)
-
-
 - [Step21 - Passing arguments by value / reference / address](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step21)
 - [Step22 - Sizeof](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step22)
 - [Step23 - Pointers and Math](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step23)
 - [Step24 - Arrow Member Selection Operator(->)](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step24)
 - [Step25 - Destructors](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step25)
-
+- [Step26 - Const class objects and member functions](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step26)
+- [Step27 - Constructor member initializer lists](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step27)
+- [Step28 - Object relationships - Composition](https://github.com/wangweiX/c-learning/tree/master/c%2B%2Blearning-step28)
