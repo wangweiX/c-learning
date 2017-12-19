@@ -7,10 +7,16 @@
 
 
 class Date {
+private:
+    int m_year;
+    int m_month;
+    int m_day;
+
 public:
-    Date(int year, int month, int day);
 
     Date();
+
+    Date(int year, int month, int day);
 
     int getM_year() const;
 
@@ -28,10 +34,7 @@ public:
 
     void setDate(int year, int month, int day);
 
-private:
-    int m_year;
-    int m_month;
-    int m_day;
+    void printDate(const Date &date);
 };
 
 

@@ -4,12 +4,12 @@
 
 #include "Date.h"
 
-Date::Date(int year, int month, int day) {
-    setDate(year, month, day);
-}
-
 Date::Date() {
 
+}
+
+Date::Date(int year, int month, int day) {
+    setDate(year, month, day);
 }
 
 void Date::setDate(int year, int month, int day) {
@@ -44,4 +44,10 @@ void Date::setM_month(int m_month) {
 
 void Date::setM_day(int m_day) {
     Date::m_day = m_day;
+}
+
+// Const references
+void Date::printDate(const Date &date) {
+//    std::cout << date.getM_year() << "/" << date.getM_month() << "/" << date.getM_day();
+//    we can’t call non-const member functions on const objects, this will cause a compile error.
 }

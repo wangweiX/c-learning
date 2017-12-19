@@ -10,3 +10,6 @@
 ### Const member functions
 - A const member function is a member function that guarantees it will not modify the object or call any non-const member functions (as they may modify the object).
 - Any const member function that attempts to change a member variable or call a non-const member function will cause a compiler error to occur.
+
+### Const references
+Although instantiating const class objects is one way to create const objects, a more common way is by passing an object to a function by const reference.

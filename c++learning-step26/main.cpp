@@ -1,8 +1,9 @@
 #include <iostream>
-#include "Sally.h"
 #include "Date.h"
 
 using namespace std;
+
+class Something;
 
 int main() {
 
@@ -19,18 +20,36 @@ int main() {
 
     cout << "date1.year=" << date1.getM_year() << endl;
 
+    Date date2{2017, 12, 19};
+    cout << "date1.year=" << date1.getM_year()
+         << "date1.mouth" << date2.getM_month()
+         << "date1.day" << date2.getM_day()
+         << endl;
 
-    Sally sally;
+    Something something("wangwei");
+    cout << "m_value=" << something.getM_value() << endl;
 
-    sally.setAge(10);
-    cout << "sally age=" << sally.getAge() << endl;
-
-    sally.printStr();
-    sally.printStr0();
-
-    const Sally sallyConstObj; // const object
-    sallyConstObj.printStr();
-//    sallyConstObj.printStr0(); compile error
+    const Something something1("wangwei1");
+    cout << "m_value=" << something1.getM_value() << endl;
 
     return 0;
 }
+
+
+class Something {
+private:
+    string m_value;
+
+public:
+    Something(const string &value = "") {
+        m_value = value;
+    }
+
+    const string &getM_value() const {
+        return m_value;// getValue() for const objects
+    }
+
+    string &getM_value() {
+        return m_value;// getValue() for non-const objects
+    }
+};
